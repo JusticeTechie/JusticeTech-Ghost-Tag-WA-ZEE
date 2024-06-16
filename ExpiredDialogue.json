@@ -1,1 +1,7 @@
-Jsbshsjsk
+{
+  "message": "Your app is expired. Extend the validity now to continue enjoying the app thanks!",
+  "expirationDate": "2024-06-29",
+  "dateFormat": "yyyy-MM-dd",
+  "buttonLink": "https://wa.link/clh3tl"
+}
+
